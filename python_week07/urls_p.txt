@@ -1,0 +1,6 @@
+1	http://www.sedaily.com/NewsView/1KV5UTXS79	div.view_con
+2	http://pcnc11.blog.me/220673642506	div#postViewArea > div > p
+3	http://blog.naver.com/ssi_000/220687590202	p.se_textarea > span
+4	http://blog.naver.com/honestpsc17/220688577574	p.se_textarea > span
+5	http://blog.naver.com/dongeundp/220685925856	div#postViewArea > div > p > span
+6	http://news20.busan.com/controller/newsController.jsp?newsId=20160425000008	div#adiContents

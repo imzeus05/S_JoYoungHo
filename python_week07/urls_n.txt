@@ -1,0 +1,4 @@
+1	http://news1.kr/articles/?2643192	div.detail
+2	http://www.sedaily.com/NewsView/1KV5F9YGSH	div.view_con
+3	http://sports.donga.com/3/all/20160328/77263914/3	div.article_word
+4	http://ilyo.co.kr/?ac=article_view&entry_id=152850	div.contentView
